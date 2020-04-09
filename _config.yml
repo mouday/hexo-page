@@ -35,7 +35,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year/:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
@@ -115,10 +115,12 @@ social:
   GitHub: https://github.com/mouday
   ZhiHu: https://www.zhihu.com/people/pengshiyu
   CSDN: https://blog.csdn.net/mouday
+  Bilibili: https://space.bilibili.com/362231606
 
 links_title: "友情链接"
 links:
   发热网: http://www.farthe.com/
+  学习笔记: https://www.pengshiyu.com/LearningNote/
 
 avatar: images/avatar.png
 
